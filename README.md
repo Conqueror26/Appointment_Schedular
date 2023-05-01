@@ -16,3 +16,10 @@ This is the part of the website where we can create a new user to login into the
 # LOGIN:
 
 This is the part where we can login to the website.After we enter the correct credentials, we are redirected to the events page.The will load for a little bit of timme after clicking submit. There is no indicator on this website which shows whether a page is loading or not.
+
+# EVENT PAGE:
+
+This is the page where we can view appointments available . In this page we can create new appointments and it will add on the appointment list.
+
+# LOGOUT:
+If we click this we are redirected to the authentication page.
