@@ -15,7 +15,7 @@ This is the part of the website where we can create a new user to login into the
 
 # LOGIN:
 
-This is the part where we can login to the website.After we enter the correct credentials, we are redirected to the events page.The will load for a little bit of timme after clicking submit. There is no indicator on this website which shows whether a page is loading or not.
+This is the part where we can login to the website.After we enter the correct credentials, we are redirected to the events page.The will load for a little bit of time after clicking submit. There is no indicator on this website which shows whether a page is loading or not.
 
 # EVENT PAGE:
 
