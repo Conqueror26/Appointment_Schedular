@@ -36,9 +36,10 @@ This Website is slow when we login with the user.We have to wait somtime before 
 
 # Functionality Tradeof:
 
-->Due to the time constraint i have ommitted a profile page and updating  the contents in it. I had created the schema for updating email and password in the backend but I couldnt implement it on the front end and in the finished product.
+->Due to the time constraint i had to trade off  profile page and updating  the contents in it. I had created the schema for updating email and password in the backend but I couldnt implement it on the front end and in the finished product.
 
-->I havent included date and time fields. I take date and time in my website as a string.
+->I havent included date and time fields in the event appointment page. I take date and time in my website as a string.
 
+->Since i dont have a profile page i couldnt implement the functionality where a user marks their off hours.
 
 
