@@ -34,7 +34,7 @@ If we click this we are redirected to the authentication page.
 
 This Website is slow when we login with the user.We have to wait somtime before it connects to the database and displays the event page.
 
-# Functionality Tradeof:
+# Functionality Tradeoff:
 
 ->Due to the time constraint i had to trade off  profile page and updating  the contents in it. I had created the schema for updating email and password in the backend but I couldnt implement it on the front end and in the finished product.
 
