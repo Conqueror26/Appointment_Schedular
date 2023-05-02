@@ -24,11 +24,11 @@ This is the page where we can view appointments available . In this page we can 
 # LOGOUT:
 If we click this we are redirected to the authentication page.
 
-# DESIGN:
+# DESIGN DECISIONS:
 
-->The frontend is done using REACT JS
+->The frontend is done using REACT JS.
 
-->The backend is done using Express NodeJS and MONGODB
+->The backend is done using Express,NodeJS and MONGODB.
 
 # Scalability concerns:
 
